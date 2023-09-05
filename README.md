@@ -1,5 +1,5 @@
 # P-Quiz
-image captioning , dart , flutter , flask , Vit+GPT2 model
+image captioning , dart , flutter , flask , Vit+GPT2 model , inception resnet v2 + Transformers
 
 <table>
   <tr>
